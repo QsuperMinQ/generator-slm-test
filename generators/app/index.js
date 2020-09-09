@@ -23,7 +23,6 @@ module.exports = class extends Generator {
 
   writing(){
     const templates = [
-      '.gitignore',
       'README.md',
       'package.json',
       'webpack.config.js',
